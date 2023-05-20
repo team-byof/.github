@@ -17,6 +17,7 @@
 
 ### Products
 ##### Architecture
+![Alt text](/path/to/img.jpg)
 - User generates facial recognition data (feature vectors) with their mobile phone and uses it as a private key to create an account.
 - Subsequently, the AA contract, which includes the ZK Verification contract for facial recognition, is deployed. (the service provider will pay a gas fee)
 - Now, the user can perform two functions with facial recognition. The first is wallet recovery, and the second is interacting with dApps solely through facial recognition.
